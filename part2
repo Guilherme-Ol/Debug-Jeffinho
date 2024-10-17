@@ -1,0 +1,22 @@
+HM:Chegamos a academia, tem muita gente aqui parece que será dificil encontrar um dos dois
+P: Vamos nos dividir para encontra-los
+H: Certo, vou pela esquerda e você pela direita, depois nos encontramos.
+P:Certo.
+
+Voce anda pela academia vendo muitos refugiados da ciência, eles parecem estudar códigos de programação para deter Jeffinho.
+Você caminha mais um pouco até avistar Serjão dos Foguetes.
+P: MESTRE SERJÃO!
+Serjao: Opa, eu lhe conheço amigo?
+P: Sou eu Serjão, <nome do personagem>!
+S: Perdão, não estou me recordando.
+P: Sou o escolhido mestre Serjão
+S: OHH, estavamos te esperando! Precisamos treinar urgente sua capacidade de raciociocinio para derrotar Jeffinho! Você está pronto?
+1-Sim, vamos lá!	2-Gostaria de treinar com Cariani, ando me sentindo um frango.
+S: Tudo bem, acho que ele está do outro lado da academia.
+P:Obrigado mestre Serjão, farei de tudo para deter Jeffinho.
+S:Conto com você!
+
+S:Vamos começar! Me diga o nome de todos os planetas do sistema solar na ordem em menos de 30 segundos. Use seu raciocínio!
+
+resposta => 5 - Parabéns, você conseguiu estudar bem.
+resposta < 4  - Que decepção meu aprendiz, vamos melhorar na próxima.
